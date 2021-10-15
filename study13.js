@@ -7,8 +7,8 @@ function sumInput() {
         number.push(+value);
 
     }
-    let sum = 0
-:
+    let sum = 0;
+
     for (let number of numbers) {
         sum += number;
     }
